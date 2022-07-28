@@ -164,6 +164,15 @@
 {"name": "解析聚合","type": 3,"url": "Demo"},
 {"name": "Json并发","type": 2,"url": "Parallel"},
 {"name": "Json轮询","type": 2,"url": "Sequence"},
+
+{"name": "1","type": 1,"url": "https://jisu.rongxingvr.top/api/?key=JGM0Kc1Sz0xCJnRMcY&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","youku","优酷","mgtv","芒果","xigua","西瓜","bilibili","哔哩哔哩","sohu","搜狐","pptv","letv","乐视","renrenmi","CL4K","ltnb","1905"]}},
+{"name": "2","type": 1,"url": "https://jisu.rongxingvr.top/api/rxm3u8.php?key=JGM0Kc1Sz0xCJnRMcY&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","youku","优酷","mgtv","芒果","xigua","西瓜","bilibili","哔哩哔哩","sohu","搜狐","pptv","letv","乐视","renrenmi","CL4K","ltnb","1905"]}},
+{"name": "3","type": 1,"url": "http://fjx.yjhan.com:8090/home/api?type=ys&uid=94229&key=abefilmrxAGHNPX356&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","youku","优酷","mgtv","芒果","xigua","西瓜","bilibili","哔哩哔哩","sohu","搜狐","pptv","letv","乐视","renrenmi","CL4K","ltnb","1905"]}},
+{"name": "4","type": 1,"url": "http://svip.nfjx.xyz/api/?key=wbbgCgezulNGcZVHc1&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","youku","优酷","mgtv","芒果","xigua","西瓜","bilibili","哔哩哔哩","sohu","搜狐","pptv","letv","乐视","renrenmi","CL4K","ltnb","1905"]}},
+
+
+
+
 {"name": "293","type": 1,"url": "http://39.96.174.234:4433/analysis.php?app=10000&account=WL52076&password=wlei52076&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","youku","优酷","mgtv","芒果","xigua","西瓜","bilibili","哔哩哔哩","sohu","搜狐","pptv","letv","乐视","renrenmi","CL4K","ltnb","1905"]}},
 {"name": "夫妻","type": 1,"url": "https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","youku","优酷","mgtv","芒果","xigua","西瓜","bilibili","哔哩哔哩","sohu","搜狐","pptv","letv","乐视","renrenmi","CL4K","ltnb","1905"]}},
 {"name": "鑫总","type": 1,"url": "http://jiexi.mmhkj.xyz/home/api?type=ys&uid=9023376&key=bdfilpuwGJLMPZ0238&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","youku","优酷","mgtv","芒果","xigua","西瓜","bilibili","哔哩哔哩","sohu","搜狐","pptv","letv","乐视","renrenmi","CL4K","ltnb","1905"]}},
