@@ -32,8 +32,8 @@
 {"key": "csp_Wmkk","name": "完美看看(优)","api": "csp_Wmkk","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/qj.jar;md5;1EB59159DCA9BDED71C83E6AE0CD9598"},
 
 #来自于俊资源包
-{"key": "酷猫影视","name": "酷猫影视(优)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;63FDC9076CD3652799919356DBAEC993"},
-{"key": "奇粹视频","name": "奇粹视频(优)","type": 3,"api": "csp_Qicui","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;63FDC9076CD3652799919356DBAEC993"},
+//{"key": "酷猫影视","name": "酷猫影视(优)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;63FDC9076CD3652799919356DBAEC993"},
+//{"key": "奇粹视频","name": "奇粹视频(优)","type": 3,"api": "csp_Qicui","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;63FDC9076CD3652799919356DBAEC993"},
 {"key": "美剧星球","name": "美剧星球(优)","type": 3,"api": "csp_Mjxq","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;63FDC9076CD3652799919356DBAEC993"},
 {"key": "天空影视","name": "天空影视(优)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;63FDC9076CD3652799919356DBAEC993"},
 {"key": "2BT影视","name": "2BT影视(优)","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;63FDC9076CD3652799919356DBAEC993"},
