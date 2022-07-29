@@ -32,8 +32,8 @@
 {"key": "csp_Wmkk","name": "完美看看(优)","api": "csp_Wmkk","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/qj.jar;md5;1EB59159DCA9BDED71C83E6AE0CD9598"},
 
 #来自于俊资源包
-{"key": "酷猫影视","name": "酷猫影视(优)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;23820EA1B06EFD4E86CCA162EB3C1C8C"},
-{"key": "2BT影视","name": "2BT影视(优)","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;23820EA1B06EFD4E86CCA162EB3C1C8C"},
+//{"key": "酷猫影视","name": "酷猫影视(优)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;23820EA1B06EFD4E86CCA162EB3C1C8C"},
+//{"key": "2BT影视","name": "2BT影视(优)","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;23820EA1B06EFD4E86CCA162EB3C1C8C"},
 
 #需要挂代理
 //{"key": "小宝影院","name": "小宝影院","type": 3,"api" :"csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1},
