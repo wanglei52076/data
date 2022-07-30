@@ -32,26 +32,14 @@
 {"key": "csp_DiDuan","name": "低端影视(优)","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/qj.jar;md5;2F8E22D7D099484D39787465C79C4F27"},
 {"key": "csp_Wmkk","name": "完美看看(优)","api": "csp_Wmkk","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/qj.jar;md5;2F8E22D7D099484D39787465C79C4F27"},
 
-
-
-
-
-
 #来自于俊资源包
-
-{"key": "Dy555","name": "Dy555(优)","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;190E35EDE8C6848A210E5C5460D345E9"},
-
+//{"key": "Dy555","name": "Dy555(优)","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;190E35EDE8C6848A210E5C5460D345E9"},
 {"key": "真不卡","name": "真不卡(优)","type": 3,"api": "csp_Buka","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;190E35EDE8C6848A210E5C5460D345E9"},
-
-{"key": "酷猫影视","name": "酷猫影视(优)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;190E35EDE8C6848A210E5C5460D345E9"},
-{"key": "奇粹视频","name": "奇粹视频(优)","type": 3,"api": "csp_Qicui","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;190E35EDE8C6848A210E5C5460D345E9"},
+//{"key": "酷猫影视","name": "酷猫影视(优)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;190E35EDE8C6848A210E5C5460D345E9"},
+//{"key": "奇粹视频","name": "奇粹视频(优)","type": 3,"api": "csp_Qicui","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;190E35EDE8C6848A210E5C5460D345E9"},
 {"key": "美剧星球","name": "美剧星球(优)","type": 3,"api": "csp_Mjxq","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;190E35EDE8C6848A210E5C5460D345E9"},
 {"key": "天空影视","name": "天空影视(优)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;190E35EDE8C6848A210E5C5460D345E9"},
 {"key": "2BT影视","name": "2BT影视(优)","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/jy.jar;md5;190E35EDE8C6848A210E5C5460D345E9"},
-
-
-
-
 
 #需要挂代理
 //{"key": "小宝影院","name": "小宝影院","type": 3,"api" :"csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -125,7 +113,7 @@
 //{"key": "影视工厂","name": "影视工厂(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/wanglei52076/xiaolei/raw/master/xb/影视工厂.json"},
 //{"key": "影视之光","name": "影视之光(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/wanglei52076/xiaolei/raw/master/xb/影视之光.json"},
 //{"key": "在线之家","name": "在线之家(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/wanglei52076/xiaolei/raw/master/xb/在线之家.json"},
-{"key": "真不卡","name": "真不卡(XB)","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/wanglei52076/xiaolei/raw/master/xb/真不卡.json"},
+//{"key": "真不卡","name": "真不卡(XB)","type": 3,"api": "csp_XBiubiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/wanglei52076/xiaolei/raw/master/xb/真不卡.json"},
 
 #XPath
 //{"key": "94神马","name": "94神马(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/wanglei52076/xiaolei/raw/master/xp/94神马.json"},
