@@ -24,7 +24,7 @@
 {"key": "9E03","name": "9E03(优)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"},
 
 #来自巧技资源包
-{"key": "酷猫影视","name": "酷猫影视(优)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/qj.jar;md5;3A477C0B071FE556277335FB2214D0C9"},
+//{"key": "酷猫影视","name": "酷猫影视(优)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/qj.jar;md5;3A477C0B071FE556277335FB2214D0C9"},
 {"key": "KanSJ_spider","name": "看视界(优)","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "","jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/qj.jar;md5;3A477C0B071FE556277335FB2214D0C9"},
 {"key": "293视频","name": "293视频(优)","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "","jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/qj.jar;md5;3A477C0B071FE556277335FB2214D0C9"},
 {"key": "Ekan_spider","name": "Ekan(优)","api": "csp_Ekan","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/qj.jar;md5;3A477C0B071FE556277335FB2214D0C9"},
