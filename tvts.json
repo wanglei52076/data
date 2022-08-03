@@ -1,7 +1,7 @@
 {
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",	
 	
-"spider": "https://gitee.com/wanglei52076/xiaolei/raw/master/ts.jar;md5;FE46B2C9D5681FB0DB840F2558EF1B2D",
+"spider": "https://gitee.com/wanglei52076/xiaolei/raw/master/ts.jar;md5;338C5ACD0A728A95E21402C95F829E3B",
 
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vd2FuZ2xlaTUyMDc2L3hpYW9sZWkvcmF3L2JyYW5jaC9tYWluL3R2L2xpdmUudHh0"]}]}],
 
