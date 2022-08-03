@@ -1,7 +1,7 @@
 {
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",	
 	
-"spider": "https://gitee.com/wanglei52076/xiaolei/raw/master/ts.jar;md5;176EA3369998C11CFE30276E6519CCAB",
+"spider": "https://gitee.com/wanglei52076/xiaolei/raw/master/ts.jar;md5;BC73718A4483AC71C5712476F712C324",
 
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vd2FuZ2xlaTUyMDc2L3hpYW9sZWkvcmF3L2JyYW5jaC9tYWluL3R2L2xpdmUudHh0"]}]}],
 
@@ -16,8 +16,8 @@
 {"key": "360影视","name": "360影视(优)","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "小苹果","name": "小苹果(优)","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "小熊TV","name": "小熊TV(优)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key": "Libvio","name": "Libvio影视(优)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key": "Cokemv","name": "Cokemv影视(优)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Libvio","name": "Libvio影视(优)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Cokemv","name": "Cokemv影视(优)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Auete","name": "Auete影视(优)","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Nfyun","name": "NF云影视(优)","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "美剧虫","name": "美剧虫(优)","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://meijuchong.com/api.php/v1.vod"},
@@ -25,8 +25,8 @@
 
 #来自巧技资源包
 {"key": "酷猫影视","name": "酷猫影视(优)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/qj.jar;md5;E55959C3DA426A2C528E220332B76A3A"},
-{"key": "Libvio","name": "Libvio影视(优)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/qj.jar;md5;E55959C3DA426A2C528E220332B76A3A"},
-{"key": "Cokemv","name": "Cokemv影视(优)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/qj.jar;md5;E55959C3DA426A2C528E220332B76A3A"},
+//{"key": "Libvio","name": "Libvio影视(优)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/qj.jar;md5;E55959C3DA426A2C528E220332B76A3A"},
+//{"key": "Cokemv","name": "Cokemv影视(优)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/qj.jar;md5;E55959C3DA426A2C528E220332B76A3A"},
 {"key": "KanSJ_spider","name": "看视界(优)","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "","jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/qj.jar;md5;E55959C3DA426A2C528E220332B76A3A"},
 {"key": "293视频","name": "293视频(优)","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "","jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/qj.jar;md5;E55959C3DA426A2C528E220332B76A3A"},
 {"key": "Ekan_spider","name": "Ekan(优)","api": "csp_Ekan","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar": "https://gitee.com/wanglei52076/xiaolei/raw/master/qj.jar;md5;E55959C3DA426A2C528E220332B76A3A"},
