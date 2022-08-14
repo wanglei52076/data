@@ -67,10 +67,10 @@
 {"key": "哔哩哔哩","name": "哔哩哔哩(优)","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/wanglei52076/xiaolei/raw/master/ext/bili.json"},
 
 #阿里资源
-{"key": "小纸条","name": "小纸条(优)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "d976282854584d8cb3efc466bfb42eb6"},
-{"key": "找资源","name": "找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "d976282854584d8cb3efc466bfb42eb6"},
-{"key": "盘搜","name": "盘搜","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "d976282854584d8cb3efc466bfb42eb6"},
-{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "d976282854584d8cb3efc466bfb42eb6"},
+{"key": "小纸条","name": "小纸条(优)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "31e2ab23fe8a491c9a9a4f67f3bff4d7"},
+{"key": "找资源","name": "找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "31e2ab23fe8a491c9a9a4f67f3bff4d7"},
+{"key": "盘搜","name": "盘搜","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "31e2ab23fe8a491c9a9a4f67f3bff4d7"},
+{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "31e2ab23fe8a491c9a9a4f67f3bff4d7"},
 
 #XBiubiu
 //{"key": "4K电影","name": "4K电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/wanglei52076/xiaolei/raw/master/xb/4K电影.json"},
