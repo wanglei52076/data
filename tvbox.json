@@ -53,7 +53,7 @@
 {"key": "Vodimg","name": "影图(切)","type": 1,"api": "https://cj.vodimg.top/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
 
 #哔哩哔哩
-{"key": "哔哩哔哩","name": "哔哩哔哩(优)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/wanglei52076/xiaolei/raw/branch/master/ext/bili.json"},
+{"key": "哔哩哔哩","name": "哔哩哔哩(优)","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/wanglei52076/xiaolei/raw/branch/master/ext/bili.json"},
 {"key": "幼儿乐园","name": "幼儿乐园(细分)","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/wanglei52076/xiaolei/raw/branch/master/ext/幼儿乐园.php"},
 {"key": "少儿教育","name": "少儿教育(细分)","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/wanglei52076/xiaolei/raw/branch/master/ext/少儿教育.php"},
 {"key": "小学课堂","name": "小学课堂(细分)","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/wanglei52076/xiaolei/raw/branch/master/ext/小学课堂.php"},
@@ -62,7 +62,7 @@
 
 #阿里资源
 {"key": "Gitcafe","name": "小纸条(云盘)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "31e2ab23fe8a491c9a9a4f67f3bff4d7"},
-{"key": "FindZY","name": "找资源(搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "31e2ab23fe8a491c9a9a4f67f3bff4d7"},
+//{"key": "FindZY","name": "找资源(搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "31e2ab23fe8a491c9a9a4f67f3bff4d7"},
 {"key": "AliPanSou","name": "盘搜(搜索)","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "31e2ab23fe8a491c9a9a4f67f3bff4d7"},
 {"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "31e2ab23fe8a491c9a9a4f67f3bff4d7"},
 
@@ -107,9 +107,7 @@
 {"name": "解析聚合","type": 3,"url": "Demo"},
 {"name": "Json并发","type": 2,"url": "Parallel"},
 {"name": "Json轮询","type": 2,"url": "Sequence"},
-{"name": "GGTV","type": 1,"url": "https://play.fuqizhishi.com/gang0818/API.php?appkey=QQ172598364&url="},
-{"name": "293","type": 1,"url": "http://39.96.174.234:4433/analysis.php?app=10000&account=WL52076&password=wlei52076&url="},
-{"name": "鑫总","type": 1,"url": "https://jiexi.hnslg.com.cn/home/api?type=ys&uid=9023376&key=bdfilpuwGJLMPZ0238&url="},
+{"name": "GGTV","type": 1,"url": "https://play.fuqizhishi.com/gang0819/API.php?appkey=QQ172598364&url="},
 {"name": "江湖","type": 1,"url": "http://103.40.240.46/jh/?url="},
 {"name": "兄弟","type": 1,"url": "http://ffjx.zjapp.cc/api/?key=1cYmovHxZ5btJfooPj&url="},
 {"name": "乐多","type": 1,"url": "https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid="},
